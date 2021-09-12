@@ -29,12 +29,22 @@ h1 {
   
 }
 .vacimg {
-    margin-top: 80px ;
+    margin-top: 2% ;
     align-items: center;
-    position:relative;
-    left: 60px;
+    height: 255px;
 
 }
 .carousel-item {
-    padding: 100px 150px;
+    padding: 10% 2%;
+}
+.wp {
+    background-color: yellow;
+    text-align: center;
+}
+#au {
+    margin: 5% 0% 4%;
+    text-align: center;
+    padding: 0% 10% 4%;
+    background-color: aqua;
+    font-size: 200%;
 }
